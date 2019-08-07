@@ -64,28 +64,3 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
-.container{
-	width: 900px;
-	margin: 0 auto;
-}
-nav a{
-	margin: 30px;
-	text-decoration: none;
-	color: #c7c7c7;
-}
-h1{
-	font-size: 50px;
-}
-.one{
-	text-align: center;
-}
-.two{
-	width: 416px;
-	display: inline-block;
-}
-#header-container > div{
-	margin-left: 30px;
-}
-.two h1{
-	height: 300px;
-}
